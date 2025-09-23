@@ -1,2 +1,2 @@
-# Automated_Testing_W_Python_EPAM
+# Python_Core_EPAM
 My solutions for the tasks
